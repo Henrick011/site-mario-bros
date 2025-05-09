@@ -195,7 +195,7 @@ textarea {
     }
 
     video {
-
+        display: none;
     }
 
 }
