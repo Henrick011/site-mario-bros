@@ -150,10 +150,6 @@ textarea {
 
 @media(max-width: 1100px) {
 
-    * {
-        z-index: 1;
-    }
-
     p {
         display: none;
     }
