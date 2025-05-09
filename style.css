@@ -195,7 +195,7 @@ textarea {
         transform: translateX(-37%);
     }
 
-    .caixa-video {
+    video {
         position: fixed;
         top: 0;
         z-index: -1;
