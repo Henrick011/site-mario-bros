@@ -195,11 +195,11 @@ textarea {
     }
 
     input {
-        outline-color: #18d80f;
+        outline: 2px solid #18d80f;
     }
 
     textarea {
-        outline-color: #18d80f;
+        outline: 2px solid #18d80f;
     }
 
 }
