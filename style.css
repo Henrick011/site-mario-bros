@@ -195,11 +195,3 @@ textarea {
     }
 
 }
-
-@media(min-width: 1100px) {
-
-      video {
-        display: none;
-    }
-    
-}
