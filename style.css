@@ -194,4 +194,12 @@ textarea {
         transform: translateX(-37%);
     }
 
+    input {
+        outline-color: #18d80f;
+    }
+
+    textarea {
+        outline-color: #18d80f;
+    }
+
 }
